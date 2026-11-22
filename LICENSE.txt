@@ -1,0 +1,24 @@
+Tears of Steel - sample footage for Supercut
+============================================
+
+Tears of Steel (CC) Blender Foundation | mango.blender.org
+
+These clips are cut from "Tears of Steel", the open movie by the Blender
+Foundation (Project Mango, 2012), and are licensed under the Creative Commons
+Attribution 3.0 licence (CC BY 3.0):
+https://creativecommons.org/licenses/by/3.0/
+
+Source: the 1080p release of the finished film,
+https://download.blender.org/demo/movies/ToS/tears_of_steel_1080p.mov.zip
+More about the film: https://mango.blender.org
+
+Cut from the original film for Supercut's sample project.
+Changes: trimmed. Each clip is one stretch of scene 12 ("the bridge"),
+or one camera angle's moments of that scene joined in story order with half a
+second of black between them; re-encoded to H.264 1920x800, 24 fps, AAC sound.
+Nothing else in the picture or sound was changed.
+
+Music in the film's soundtrack by Joram Letwory (www.tearsofsteel.org).
+
+You may share and adapt these clips, also commercially, as long as you give
+the credit above, link the licence, and say what was changed.
